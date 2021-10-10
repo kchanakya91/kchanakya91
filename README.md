@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kchanakya91
+- 👋 Hi, I’m karthik chavali
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning pl/sql, python, Weka
 - 💞️ I’m looking to collaborate on software projects
