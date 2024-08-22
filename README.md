@@ -1,6 +1,6 @@
 - 👋 Hi, I’m karthik chavali
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning pl/sql, python, Weka, HTML, CSS, JavaScript
+- 🌱 I’m currently learning pl/sql, python, Weka, HTML, CSS, JavaScript, Tableau, Power BI
 - 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me -kchanakya91@gmail.com
 
